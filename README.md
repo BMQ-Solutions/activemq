@@ -1,4 +1,3 @@
-# ActiveMQ
 ![Apache ActiveMQ](https://github.com/BMQ-Solutions/activemq/raw/master/logo.png)
 
 http://activemq.apache.org/
